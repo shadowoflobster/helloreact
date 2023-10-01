@@ -50,7 +50,7 @@ export const Header = () => {
                       </a>
                       <a href="#">
                         <li>
-                          სახ ელოსნო
+                          სახელოსნო
                         </li>
                       </a>
                     </ul>
